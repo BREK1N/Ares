@@ -6,6 +6,6 @@
     Rápido e expansível.
 
 tecnologias:
-    reconhecimento de voz.
+    reconhecimento de voz.(Google, )
     síntese de voz
     algum tipo de IA.
